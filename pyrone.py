@@ -21,27 +21,26 @@ SESSION5 = getenv('SESSION5', default=None)
 # ------------- CLIENTS -------------
 
 if SESSION1:
-    M1 = Client(SESSION1, api_id=25981592, api_hash="709f3c9d34d83873d3c7e76cdd75b866")
+    M1 = Client(SESSION1, api_id=21719847, api_hash="445c1e262e63c17c80f5afc147ea72d3")
 else:
     M1 = None
 
 if SESSION2:
-    M2 = Client(SESSION2, api_id=25981592, api_hash="709f3c9d34d83873d3c7e76cdd75b866")
-else:
+    M2 = Client(SESSION2, api_id=21719847,api_hash="445c1e262e63c17c80f5afc147ea72d3")
     M2 = None
 
 if SESSION3:
-    M3 = Client(SESSION3, api_id=25981592, api_hash="709f3c9d34d83873d3c7e76cdd75b866")
+    M3 = Client(SESSION3, api_id=21719847, api_hash="445c1e262e63c17c80f5afc147ea72d3")
 else:
     M3 = None
 
 if SESSION4:
-    M4 = Client(SESSION4, api_id=25981592, api_hash="709f3c9d34d83873d3c7e76cdd75b866")
+    M4 = Client(SESSION4, api_id=21719847, api_hash="445c1e262e63c17c80f5afc147ea72d3"")
 else:
     M4 = None
 
 if SESSION5:
-    M5 = Client(SESSION5, api_id=25981592, api_hash="709f3c9d34d83873d3c7e76cdd75b866")
+    M5 = Client(SESSION5, api_id=21719847, api_hash="445c1e262e63c17c80f5afc147ea72d3")
 else:
     M5 = None
 
@@ -63,8 +62,8 @@ ONE_WORDS = ["TERI","MAA","CHUDEGI","RANDII","KII","TARAH","SWAGGER OP 🥵🔥"
            "MAA","KAAA","BOOBS","DABATA HU", "TERI", "MAA", "KI", "CHUT", "TERI", "MAA", "KI", "CHUT",
            "FAAD", "DUNGA", "HIJDE", "TERA", "BAAP","HU", "KIDXX", "SPEED", "PAKAD", "BHEN KE LAUDE", "AA BETA",
            "AAGYA", "TERI", "MAA ", "CHODNE","AB", "TERI ", "MAA", "CHUDEGI", "KUTTE", "KI", "TARAH", "BETA",
-           "TERI", "MAA", "KE", "BHOSDE", "ME", "JBL", "KE", "SPEAKER", "DAAL", "KAR", "BASS", "BOOSTED", "SONG",
-           "SUNUNGA", "PURI","RAAT", "LAGATAR", "TERI", "MAA", "KE", "SATH", "SEX", "KARUNGA🔥", "TERI", "MAA", "KE",
+           "TERI", "MAA", "KE", "BHOSDE", "ME", "52", "GAJJ", "KA","LUND","DE","DUNGA","SPEED","MATCH","NA","HO","RAHI","TO","PYRON","OR","BOT","BOLTA","HAI"
+           "CHODUNGA BETA", "PURI","RAAT", "LAGATAR", "TERI", "MAA", "KE", "SATH", "SEX", "KARUNGA🔥", "TERI", "MAA", "KE",
            "BOOBS","DABAUNGA","XXX","TERI","MAA","KAA","CHUT","MARU","RANDI","KEE","PILEE","TERI","MAA","KAA","BHOSDAA",
            "MARU","SUAR","KEE","CHODE","TERI","MAAA","KEEE","NUDES","BECHUNGA","RANDI","KEE","PILLE","TERI","MAAA",
            "CHODU","SUAR","KEEE","PILEE","TERIII","MAAA","DAILYY","CHUDTTI","HAII","MADHARCHOD","AUKAT","BANAA",
@@ -75,10 +74,10 @@ ONE_WORDS = ["TERI","MAA","CHUDEGI","RANDII","KII","TARAH","SWAGGER OP 🥵🔥"
            "KEEE","PILLEE","NAAK","MEEE","NETAA","BAAP","KOO","KABHII","NAAH","BOLNAA","BETAA","CHUSS","LEEE",
            "MERAA","LODAA","JAISE","ALUU","KAAA","PAKODAA","TERI","MAAA","BEHEN","GFF","NANI","DIIN","RAAT","SOTEE",
            "JAGTEE","PELTAA","HUUU","LODEE","CHAAR","CHAWNII","GHODEE","PEEE","TUMM","MEREE","LODEE","PEE","TERI",
-           "MAA","KAAA","BOOBS","DABATA HU", "TERA", "BAAP", "HU", "KIDXX", "SPEED", "PAKAD", "BHEN KE LAUDE",
-           "AA BETA", "AAGYA", "TERI", "MAA ", "CHODNE",
+           "MAA","KAAA","BOOBS","DABATA HU", "TERA", "BAAP", "HU", "KIDXX","SWAGGER🔥", "SPEED", "PAKAD", "BHEN KE LAUDE",
+           "AA BETA", "AAGYA", "TERI", "MAA ", "CHODNE","TERI","MAIYA","CHOD","DUNGA","SWAGGER","OP BOLTE "
            "AB", "TERI ", "MAA", "CHUDEGI", "KUTTE", "KI", "TARAH", "BETA", "TERI", "MAA", "KE", "BHOSDE",
-           "ME", "JBL", "KE", "SPEAKER", "DAAL", "KAR", "BASS", "BOOSTED", "SONG", "SUNUNGA", "PURI",
+           "ME", "SWAGGER", "KA", "LUND", "DAAL", "KAR", "RAAT", "BHAR", "CHODUNGA", "PURI",
            "RAAT", "LAGATAR", "TERI", "MAA", "KE", "SATH", "SEX", "KARUNGA🔥", "CHUD", "GAYA", "BACCHA", "BAAP SE",
            "AUKAT ME", "RAHO", "WARNA", "MAA CHOD DENGE TUMARI","SWAGGER OP BOLTE🔥🔥"]
 
